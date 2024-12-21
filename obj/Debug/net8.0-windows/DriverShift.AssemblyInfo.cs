@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DriverShift")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bfbee55d1362c500029901ba5bb210f11deb2d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("DriverShift")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DriverShift")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
