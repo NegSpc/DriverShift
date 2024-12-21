@@ -19,3 +19,5 @@ D:\DriverShift\obj\Debug\net8.0-windows\refint\DriverShift.dll
 D:\DriverShift\obj\Debug\net8.0-windows\DriverShift.pdb
 D:\DriverShift\obj\Debug\net8.0-windows\DriverShift.genruntimeconfig.cache
 D:\DriverShift\obj\Debug\net8.0-windows\ref\DriverShift.dll
+D:\DriverShift\obj\Debug\net8.0-windows\UserControl.baml
+D:\DriverShift\obj\Debug\net8.0-windows\UserControl.g.cs
